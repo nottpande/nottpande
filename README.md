@@ -12,10 +12,10 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
-<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
 
 
 
