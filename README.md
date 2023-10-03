@@ -17,7 +17,7 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
 <br>
-<h2> GitHub Stats: </h2>
+<h2 align="left"> GitHub Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=nottpande&theme=dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dark&layout=compact">
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nottpande&amp;theme=dark" ></a></p>
