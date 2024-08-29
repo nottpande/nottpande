@@ -6,20 +6,11 @@
   <li> I am learning about Transformers and Large Language Models, exploring various aspects such as LLM biasness, Replies from LLMs and various other NLP applications, I look forward to pursue a career on Gen AI and Research around various aspects in LLM and NLP.</li>
  </ul>
 <h2>My Tech Stack:</h2>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
-
+**Languages:** Python, C
+**Developer Tools:** VS Code, Git, Github, Jupyter Notebook
+**Modules:** NumPy, Pandas, Tensorflow, Pytorch, Scikit-Learn, FastAPI
+**Institute Core Subjects:** Data Structures and Algorithms, Database Management Systems, Operating Systems, Probability and Statistics, Discrete Structures and Matrix Algebra
+**Design:** Adobe Photoshop, DaVinci Resolve 18, Canva, Adobe After Effects, Figma
 <br>
 <br>
 <h2 align="left"> GitHub Stats: </h2>
