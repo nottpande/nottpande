@@ -6,11 +6,13 @@
   <li> I am learning about Transformers and Large Language Models, exploring various aspects such as LLM biasness, Replies from LLMs and various other NLP applications, I look forward to pursue a career on Gen AI and Research around various aspects in LLM and NLP.</li>
  </ul>
 <h2>My Tech Stack:</h2>
-**Languages:** Python, C
-**Developer Tools:** VS Code, Git, Github, Jupyter Notebook
-**Modules:** NumPy, Pandas, Tensorflow, Pytorch, Scikit-Learn, FastAPI
-**Institute Core Subjects:** Data Structures and Algorithms, Database Management Systems, Operating Systems, Probability and Statistics, Discrete Structures and Matrix Algebra
-**Design:** Adobe Photoshop, DaVinci Resolve 18, Canva, Adobe After Effects, Figma
+<div>
+ <p><strong>Languages:</strong> Python, C</p>
+        <p><strong>Developer Tools:</strong> VS Code, Git, Github, Jupyter Notebook</p>
+        <p><strong>Modules:</strong> NumPy, Pandas, Tensorflow, Pytorch, Scikit-Learn, FastAPI</p>
+        <p><strong>Institute Core Subjects:</strong> Data Structures and Algorithms, Database Management Systems, Operating Systems, Probability and Statistics, Discrete Structures and Matrix Algebra</p>
+        <p><strong>Design:</strong> Adobe Photoshop, DaVinci Resolve 18, Canva, Adobe After Effects, Figma</p>
+    </div>
 <br>
 <br>
 <h2 align="left"> GitHub Stats: </h2>
