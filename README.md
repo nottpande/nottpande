@@ -1,8 +1,9 @@
 <h1 align="center">Heya! I'm Aditya Pande 👋</h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
-  <li>A Machine Learning Enthusiast</li>
-  <li>Currently exploring on Neural Networds and TensorFlow</li>
+  <li>An AI / ML Enthusiast</li>
+  <li> I have explored various aspects of machine learning, including supervised and unsupervised learning, deep learning, and a rudimentary understanding of computer vision. Currently, my focus lies on getting a good hold on Natural Language Processing.</li>
+  <li> I am learning about Transformers and Large Language Models, exploring various aspects such as LLM biasness, Replies from LLMs and various other NLP applications, I look forward to pursue a career on Gen AI and Research around various aspects in LLM and NLP.</li>
  </ul>
 <h2>My Tech Stack:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
