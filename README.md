@@ -22,18 +22,6 @@ That’s what I do best.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nottpande&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nottpande&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
