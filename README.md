@@ -1,4 +1,4 @@
-<h1 align="center">Heya! I'm Aditya Pande 👋</h1>
+'<h1 align="center">Heya! I'm Aditya Pande 👋</h1>
 
 <p align="center">
   I think in systems, speak in metaphors, and live for those <em>“ohhh, <strong>now</strong> it makes sense”</em> moments.
@@ -20,13 +20,13 @@ I’m always asking myself the same question:
 That’s what drives me.  
 That’s what I do best.
 
-# 📊 GitHub Stats:
+### Statistically speaking, I code
 ![](https://github-readme-stats.vercel.app/api?username=nottpande&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nottpande&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### Dev Quotes: Because StackOverflow Isn’t Philosophical Enough
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
