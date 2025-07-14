@@ -1,4 +1,4 @@
-'<h1 align="center">Heya! I'm Aditya Pande 👋</h1>
+<h1 align="center">Hi, I’m Aditya — currently starring in ‘It worked on my machine.’</h1>
 
 <p align="center">
   I think in systems, speak in metaphors, and live for those <em>“ohhh, <strong>now</strong> it makes sense”</em> moments.
