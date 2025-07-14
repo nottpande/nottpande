@@ -1,21 +1,10 @@
 <h1 align="center">Heya! I'm Aditya Pande 👋</h1>
-<h2>👨‍💻 About Me:</h2>
-<ul type="circle">
-  <li>An AI / ML Enthusiast</li>
-  <li> I have explored various aspects of machine learning, including supervised and unsupervised learning, deep learning, and a rudimentary understanding of computer vision. Currently, my focus lies on getting a good hold on Natural Language Processing.</li>
-  <li> I am learning about Transformers and Large Language Models, exploring various aspects such as LLM biasness, Replies from LLMs and various other NLP applications, I look forward to pursue a career on Gen AI and Research around various aspects in LLM and NLP.</li>
- </ul>
- 
-<h2>My Tech Stack:</h2>
-<div>
- <p><strong>Languages:</strong> Python, C</p>
-        <p><strong>Developer Tools:</strong> VS Code, Git, Github, Jupyter Notebook</p>
-        <p><strong>Modules:</strong> NumPy, Pandas, Tensorflow, Pytorch, Scikit-Learn, FastAPI</p>
-        <p><strong>Institute Core Subjects:</strong> Data Structures and Algorithms, Database Management Systems, Operating Systems, Probability and Statistics, Discrete Structures and Matrix Algebra</p>
-        <p><strong>Design:</strong> Adobe Photoshop, DaVinci Resolve 18, Canva, Adobe After Effects, Figma</p>
-    </div>
+I think in systems, speak in metaphors, and live for those “ohhh, now it makes sense” moments.<br><br>I’m passionate about machine learning, not just building with it, but truly understanding it. I believe the real magic happens when you can take something complex like gradients, optimization, abstraction and explain it so clearly that even someone just learning matrices can feel the spark.<br><br>For me, clarity isn’t optional. It’s the goal.<br>I don’t chase complexity for the sake of it. I dig deep, break things apart, and rebuild them until they feel intuitive, not just to me, but to anyone curious enough to follow along.<br><br>I value learning over buzzwords, ideas over trends, and clean thinking over clever hacks. I’m not here to show off, I’m here to make sense of the mess, one concept at a time.<br><br>Whether I’m writing code, debugging a mental model, or helping someone else see the bigger picture, I’m always trying to answer the same question:<br>“How do I make this click for someone who’s never seen it before?”<br><br>That’s what drives me. That’s what I do best.
 
-<h2 align="left"> GitHub Stats: </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=nottpande&theme=dark&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dark&layout=compact">
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nottpande&amp;theme=dark" ></a></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nottpande&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nottpande&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
