@@ -20,11 +20,23 @@ I’m always asking myself the same question:
 That’s what drives me.  
 That’s what I do best.
 
----
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nottpande&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=nottpande&theme=dracula&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottpande&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
