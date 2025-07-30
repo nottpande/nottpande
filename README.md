@@ -1,24 +1,38 @@
-<h1 align="center">Hi, I’m Aditya — currently starring in ‘It worked on my machine.’</h1>
-
+<h1 align="center">Hi, I’m Aditya - currently starring in *“It worked on my machine.”*</h1>
 <p align="center">
-  I think in systems, speak in metaphors, and live for those <em>“ohhh, <strong>now</strong> it makes sense”</em> moments.
+  I think in systems, explain in metaphors, and live for those *“ohhh, <strong>now</strong> I get it!”* moments.
 </p>
 
-I’m passionate about machine learning — not just building with it, but truly understanding it.  
-I believe the real magic happens when you can take something complex — gradients, optimization, abstraction — and explain it so clearly that even someone who just learned matrices can feel the spark.
+I’m deeply into machine learning - not just building models, but obsessively trying to **understand** them.
 
-For me, clarity isn’t optional. It’s the goal.  
-I don’t chase complexity for the sake of it. I dig deep, break things apart, and rebuild them until they feel intuitive — not just to me, but to anyone curious enough to follow along.
+Like, why is the optimizer behaving like a toddler on sugar? What do gradients *really* want? These are the mysteries I wake up for.
 
-I value learning over buzzwords, ideas over trends, and clean thinking over clever hacks.  
-I’m not here to show off — I’m here to make sense of the mess, one concept at a time.
+I’m the kind of person who won’t sleep until I can explain backpropagation to a potato.
 
-Whether I’m writing code, debugging a mental model, or helping someone else see the bigger picture,  
-I’m always asking myself the same question:  
-> 💭 **“How do I make this *click* for someone who’s never seen it before?”**
+Clarity isn’t a nice-to-have - it’s a personal vendetta.
 
-That’s what drives me.  
-That’s what I do best.
+If it’s not intuitive, I’ll keep poking it with a stick until it is.
+
+I don’t chase hype. I chase “aha!” moments.
+
+I like taking big, scary-sounding concepts - like softmax or vector spaces - and turning them into something your cousin who just learned what a matrix is can understand (and maybe even enjoy?).
+
+I value learning over lingo, clean ideas over clever hacks, and curiosity over credentials.
+
+Not here to flex. Here to untangle the spaghetti.
+
+Whether I’m writing code, breaking my mental model (again), or helping someone else go from “huh?” to “heck yeah,”
+
+I’m always guided by one golden question:
+
+> 💭 “How do I make this click for someone who’s never seen it before?”
+> 
+
+That’s what I care about.
+
+That’s what I do.
+
+Also, I sometimes debug by staring at the screen until the code feels guilty enough to fix itself.
 
 ### Statistically speaking, I code
 ![](https://github-readme-stats.vercel.app/api?username=nottpande&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
