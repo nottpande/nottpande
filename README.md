@@ -2,7 +2,7 @@
 <p align="center">
   I think in systems, explain in metaphors, and live for those “ohhh, <strong>now</strong> I get it!” moments.
 </p>
-I’m deeply into machine learning - not just building models, but obsessively trying to **understand** them.
+I’m deeply into machine learning - not just building models, but obsessively trying to understand them.
 Like, why is the optimizer behaving like a toddler on sugar? What do gradients *really* want? These are the mysteries I wake up for.
 I’m the kind of person who won’t sleep until I can explain backpropagation to a potato.
 Clarity isn’t a nice-to-have - it’s a personal vendetta.
